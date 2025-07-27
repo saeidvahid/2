@@ -1,0 +1,53 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_2E0E628A_21F6_5BAF_41BB_AC3990A386DC.source = https://www.instagram.com/photo.drone.graphy?igsh=ejY5Y3A0YXhzMTRm
+LinkBehaviour_31F33855_21F3_B6A5_41A0_59427201478B.source = https://www.instagram.com/photo.drone.graphy?igsh=ejY5Y3A0YXhzMTRm
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_31D9A2A3_21F6_5BE3_41BB_B41338C90841.toolTip = بازگشت به اینستاگرام
+HotspotPanoramaOverlayArea_31B8387B_21F3_B76D_41BB_47B9C8139936.toolTip = برگشت به اینستاگرام
+HotspotPanoramaOverlayArea_3D85C55D_32AA_3807_41A4_6BA87BAF3A8E.toolTip = روز
+HotspotPanoramaOverlayArea_2B95D075_32EA_5804_41B4_4F425322AD0E.toolTip = شب   
+HotspotPanoramaOverlayArea_3647473C_22D2_C7E7_41B1_6AB30FF27798.toolTip = عکس ها
+HotspotPanoramaOverlayArea_341E4D34_22EF_4BE7_41BC_81B9CDE8DB12.toolTip = کلیک کنید
+
+## Media
+
+### Audio
+audiores_35525491_22D2_BAA1_41B1_5F8339B663D8.mp3Url = media/audio_20BFE6E4_32A6_5804_41A5_3546BA12BFA7_en.mp3
+audiores_35525491_22D2_BAA1_41B1_5F8339B663D8.mp3Url = media/audio_20BFE6E4_32A6_5804_41A5_3546BA12BFA7_en.mp3
+audiores_35525491_22D2_BAA1_41B1_5F8339B663D8.mp3Url = media/audio_20BFE6E4_32A6_5804_41A5_3546BA12BFA7_en.mp3
+
+### Title
+album_376E6BA5_22F1_CEE0_41AB_4AEC17D8EB05.label = Photo Album dji_fly_۲۰۲۴۰۱۱۸_۲۰۵۹۳۸_668_1705604116635_photo_optimized
+panorama_3E29004B_32A6_380C_41A0_8C4F74B7CC77.label = dji_export_1659281894476
+photo_33B6D302_21D2_DA9C_41B2_D0F9D7CF1986.label = dji_fly_۲۰۲۲۰۷۳۱_۱۹۲۱۰۸_296_1673641949122_pano
+photo_33B6D302_21D2_DA9C_41B2_D0F9D7CF1986.label = dji_fly_۲۰۲۲۰۷۳۱_۱۹۲۱۰۸_296_1673641949122_pano
+photo_31B63D13_21D2_AEBC_41B5_22D59B9480A9.label = dji_fly_۲۰۲۲۰۷۳۱_۱۹۲۱۳۰_297_1673641938015_pano
+photo_31B63D13_21D2_AEBC_41B5_22D59B9480A9.label = dji_fly_۲۰۲۲۰۷۳۱_۱۹۲۱۳۰_297_1673641938015_pano
+panorama_36439CEE_22AE_CA63_418A_E5DE6EC93160.label = dji_fly_۲۰۲۲۰۷۳۱_۲۱۳۰۱۲_338_1662115171702_pano_optimized
+panorama_39BE2B09_22B1_4FA0_4169_8E58DB0808AF.label = dji_fly_۲۰۲۴۰۱۱۸_۲۰۵۸۲۰_667_1705604150150_pano_optimized
+album_376E6BA5_22F1_CEE0_41AB_4AEC17D8EB05_0.label = dji_fly_۲۰۲۴۰۱۱۸_۲۰۵۹۳۸_668_1705604116635_photo_optimized
+album_376E6BA5_22F1_CEE0_41AB_4AEC17D8EB05_1.label = dji_fly_۲۰۲۴۰۱۱۸_۲۰۵۹۵۲_669_1705604115643_photo_optimized
+
+## Skin
+
+### Multiline Text
+HTMLText_294C9A85_32E6_C804_41B8_B90AFE8EB354.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8px;word-break:break-word;font-family:'Segoe Script';"><B>Created by:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8px;word-break:break-word;font-family:'Segoe Script';"><B>@SaeidVahidd</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8px;word-break:break-word;font-family:'Segoe Script';"><B>@photo.drone.graphy</B></SPAN></SPAN></DIV></div>
+HTMLText_280DCA30_32FE_481C_41A5_04F8870ECF92.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;word-break:break-word;"><B>created by:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;word-break:break-word;"><B>@SaeidVahidd</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;word-break:break-word;"><B>@photo.dron.graphy</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
